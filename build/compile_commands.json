@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/cc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles/glad.dir/3party/glad/glad.c.obj -c C:/Users/sefyan/Documents/2dGame/3party/glad/glad.c",
+  "file": "C:/Users/sefyan/Documents/2dGame/3party/glad/glad.c",
+  "output": "CMakeFiles/glad.dir/3party/glad/glad.c.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/cc.exe  @CMakeFiles/stb_image.dir/includes_C.rsp -g -o CMakeFiles/stb_image.dir/3party/stb/stb_image.c.obj -c C:/Users/sefyan/Documents/2dGame/3party/stb/stb_image.c",
+  "file": "C:/Users/sefyan/Documents/2dGame/3party/stb/stb_image.c",
+  "output": "CMakeFiles/stb_image.dir/3party/stb/stb_image.c.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/Keyboard.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/Keyboard.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/Keyboard.cpp",
+  "output": "CMakeFiles/Core.dir/Core/Keyboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/Mouse.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/Mouse.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/Mouse.cpp",
+  "output": "CMakeFiles/Core.dir/Core/Mouse.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/Window.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/Window.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/Window.cpp",
+  "output": "CMakeFiles/Core.dir/Core/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/OpenGL.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/OpenGL.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/OpenGL.cpp",
+  "output": "CMakeFiles/Core.dir/Core/OpenGL.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/APP.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/APP.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/APP.cpp",
+  "output": "CMakeFiles/Core.dir/Core/APP.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/Texture.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/Texture.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/Texture.cpp",
+  "output": "CMakeFiles/Core.dir/Core/Texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/Core.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -o CMakeFiles/Core.dir/Core/Shader.cpp.obj -c C:/Users/sefyan/Documents/2dGame/Core/Shader.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/Core/Shader.cpp",
+  "output": "CMakeFiles/Core.dir/Core/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/2dGame.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/2dGame.dir/src/main.cpp.obj -c C:/Users/sefyan/Documents/2dGame/src/main.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/src/main.cpp",
+  "output": "CMakeFiles/2dGame.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sefyan/Documents/2dGame/build",
+  "command": "C:/msys64/mingw64/bin/c++.exe  @CMakeFiles/2dGame.dir/includes_CXX.rsp -Wno-cast-function-type -O0 -g3 -ggdb -std=gnu++23 -Wall -Wextra -Wpedantic -o CMakeFiles/2dGame.dir/src/Game.cpp.obj -c C:/Users/sefyan/Documents/2dGame/src/Game.cpp",
+  "file": "C:/Users/sefyan/Documents/2dGame/src/Game.cpp",
+  "output": "CMakeFiles/2dGame.dir/src/Game.cpp.obj"
+}
+]

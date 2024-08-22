@@ -1,0 +1,6 @@
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/glad.dir
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/stb_image.dir
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/Core.dir
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/2dGame.dir
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/edit_cache.dir
+C:/Users/sefyan/Documents/2dGame/build/CMakeFiles/rebuild_cache.dir

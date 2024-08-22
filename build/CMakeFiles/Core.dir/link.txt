@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc lib/libCore.a CMakeFiles/Core.dir/Core/Keyboard.cpp.obj CMakeFiles/Core.dir/Core/Mouse.cpp.obj CMakeFiles/Core.dir/Core/Window.cpp.obj CMakeFiles/Core.dir/Core/OpenGL.cpp.obj CMakeFiles/Core.dir/Core/APP.cpp.obj CMakeFiles/Core.dir/Core/Texture.cpp.obj CMakeFiles/Core.dir/Core/Shader.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe lib/libCore.a
